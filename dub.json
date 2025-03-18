@@ -1,0 +1,1 @@
+{"libs" : ["raylib"], "lflags-posix" : ["-L."], "lflags-osx" : ["-rpath", "@executable_path/"], "lflags-linux" : ["-rpath=$$ORIGIN"], "description" : "A minimal D application.", "dependencies" : {"raylib-d" : "~>5.5.1"}, "authors" : ["Ben Rosenberg"], "license" : "proprietary", "name" : "dtris"}
