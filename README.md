@@ -11,7 +11,7 @@ many nice features:
   - handling: das, arr, sdf
   - color scheme: customizable 12-bit colors for everything drawn to the screen, along with names taken from the xkcd color survey ([see how the color names were mapped](https://github.com/benrosenberg/12bit-color-names))
 - typical game features:
-  - the SRS rotation system
+  - the SRS rotation system (+ naive 180-spins)
   - ghost pieces
   - next queue
   - hold piece
